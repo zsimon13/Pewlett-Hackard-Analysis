@@ -12,26 +12,31 @@ From there the following pieces of data were compiled to determine the plan of a
   - This table returns employees eligible for retirement based on age, their name, employee number, birth date, role and department and their start and end dates.
   - This table has the draw back of showing the same employee multiple times (if they changed roles) as well as employees that no longer work there. 
   - The table returned 133,774 rows in total
+  
 ![retirement_titles](https://user-images.githubusercontent.com/102814578/172496362-76194da2-e3cc-454a-b895-8fbc0e0963ce.png)
 
 2. Retirement eligible employees and their current title
   - This tables returned the same information as the one above, but was cleaned  to only show employees most recent title
   - This table returned 72,456 rows in total
+  
 ![unique_titles](https://user-images.githubusercontent.com/102814578/172496911-b040a832-e6c6-4293-8606-f3fe4690ac64.png)
 
 3. Titles and count of retirement eligible empoloyees
   - This table shows the title and amount of each title eligible for retirement.
   - This table returned 7 rows in total
+  
 ![retiring_titles](https://user-images.githubusercontent.com/102814578/172961475-66d5e775-cf6d-4a98-961b-977060663f90.png)
 
 4. Mentorship Program eligibile employees
   - This table returns currently employeed employees eligible for retirement based on age, their name, birth date, employee number, role and department and their start and end dates.
   - This table returned 1,549 rows in total
+  
 ![mentorship_eligibility](https://user-images.githubusercontent.com/102814578/172499098-93f1a071-aeb0-444c-afb1-7b32f2061423.png)
 
 ## Summary
 The total amount of employees eligible for retirement is 72,456. This is a sustantial amount of roles that could need to be filled. Of those roles, 54,443 are senior level or leadership roles.
 ### Senior Roles
+
 ![Lead_count](https://user-images.githubusercontent.com/102814578/172961573-6cd9a5c5-4200-4082-9991-751b1c093ee3.png)
 
 In order for the mentorship program to work, employees would have to maintain a reasonble amount of mentee's. This would ideally be less than 5 students for every 1 mentor. Any more than 5 students would start to look like a class, and be too much work for a mentor to handle on a part-time basis efficintly. Given that only 1,549 employees are mentorship eligible, every mentor would have to take on about 47 students. Two logical options could be as follows:
