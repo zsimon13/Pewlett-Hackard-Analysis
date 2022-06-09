@@ -4,6 +4,7 @@ Pewlett Hackard requested an analysis of current employees to determine how many
 
 ## Results
 In order to properly map relationships between data, an entitiy relationship diagram (ERD) was created. This would help provide a visual connection of the company's employee strcutre to the metadata.
+
 ![EmployeeDB](https://user-images.githubusercontent.com/102814578/172492861-a661f308-9c3f-45f8-a67a-1309df25bf2b.png)
 
 From there the following pieces of data were compiled to determine the plan of action
