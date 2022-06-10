@@ -36,6 +36,7 @@ From there the following pieces of data were compiled to determine the plan of a
 ## Summary
 The total amount of employees eligible for retirement is 72,456. 
 
+### Total Amount of Retirement Eligible Employees
 ![sum_ret](https://user-images.githubusercontent.com/102814578/172981008-2dd46f2d-6fd0-4152-aebf-fbd84878e6c8.png)
 
 This is a substantial amount of roles that could need to be filled. Of those roles, 54,443 are senior level or leadership roles (which would be the most qualified roles for a mentoring position).
