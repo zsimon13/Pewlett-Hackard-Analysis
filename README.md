@@ -28,7 +28,7 @@ From there the following pieces of data were compiled to determine the plan of a
 ![retiring_titles](https://user-images.githubusercontent.com/102814578/172961475-66d5e775-cf6d-4a98-961b-977060663f90.png)
 
 ### 4. Mentorship Program eligibile employees
-  - This table returned currently employeed employees eligible for retirement based on age, their name, birth date, employee number, role and department and their start and end dates. It should be noted that the end dates show'9999-01-01' as all employees in this table are currently employeed.
+  - This table returned currently employeed employees eligible for retirement based on age, their name, birth date, employee number, role and department and their start and end dates. It should be noted that the end dates show '9999-01-01' as all employees in this table are currently employeed.
   - This table returned 1,549 rows in total
   
 ![mentorship_eligibility](https://user-images.githubusercontent.com/102814578/172499098-93f1a071-aeb0-444c-afb1-7b32f2061423.png)
