@@ -8,26 +8,26 @@ In order to properly map relationships between the data, an entitiy relationship
 ![EmployeeDB](https://user-images.githubusercontent.com/102814578/172492861-a661f308-9c3f-45f8-a67a-1309df25bf2b.png)
 
 From there the following pieces of data were compiled to determine the plan of action
-### 1. Retirement eligible employees information
+### 1. Retirement Eligible Employees Information
   - This table returns employees eligible for retirement based on age, their name, employee number, birth date, role and department and their start and end dates.
   - This table has the draw back of potentially showing the same employee multiple times (if they changed roles) as well as employees that no longer work there. 
   - The table returned 133,774 rows in total
   
 ![retirement_titles](https://user-images.githubusercontent.com/102814578/172496362-76194da2-e3cc-454a-b895-8fbc0e0963ce.png)
 
-### 2. Retirement eligible employees and their current title
+### 2. Retirement Eligible Employees and Their Current Title
   - This table returned the same information as the one above, but was cleaned  to only show employee's most recent title
   - This table returned 72,456 rows in total
   
 ![unique_titles](https://user-images.githubusercontent.com/102814578/172496911-b040a832-e6c6-4293-8606-f3fe4690ac64.png)
 
-### 3. Titles and count of retirement eligible empoloyees
+### 3. Titles and Count of Retirement Eligible Empoloyees
   - This table shows the title and amount of each title eligible for retirement.
   - This table returned 7 rows in total
   
 ![retiring_titles](https://user-images.githubusercontent.com/102814578/172961475-66d5e775-cf6d-4a98-961b-977060663f90.png)
 
-### 4. Mentorship Program eligibile employees
+### 4. Mentorship Program Eligibile Employees
   - This table returned currently employeed employees eligible for retirement based on age, their name, birth date, employee number, role and department and their start and end dates. It should be noted that the end dates show '9999-01-01' as all employees in this table are currently employeed.
   - This table returned 1,549 rows in total
   
