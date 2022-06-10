@@ -16,7 +16,7 @@ From there the following pieces of data were compiled to determine the plan of a
 ![retirement_titles](https://user-images.githubusercontent.com/102814578/172496362-76194da2-e3cc-454a-b895-8fbc0e0963ce.png)
 
 2. Retirement eligible employees and their current title
-  - This table returned the same information as the one above, but was cleaned  to only show employees most recent title
+  - This table returned the same information as the one above, but was cleaned  to only show employee's most recent title
   - This table returned 72,456 rows in total
   
 ![unique_titles](https://user-images.githubusercontent.com/102814578/172496911-b040a832-e6c6-4293-8606-f3fe4690ac64.png)
