@@ -37,7 +37,7 @@ From there the following pieces of data were compiled to determine the plan of a
 The total amount of employees eligible for retirement is 72,456. This is a sustantial amount of roles that could need to be filled. Of those roles, 54,443 are senior level or leadership roles.
 ### Senior Roles
 
-![Lead_count](https://user-images.githubusercontent.com/102814578/172961573-6cd9a5c5-4200-4082-9991-751b1c093ee3.png)
+![Lead_count](https://user-images.githubusercontent.com/102814578/172965683-900ddb4c-8f02-42d5-bd92-95d5c28d6054.png)
 
 In order for the mentorship program to work, employees would have to maintain a reasonble amount of mentee's. This would ideally be less than 5 students for every 1 mentor. Any more than 5 students would start to look like a class, and be too much work for a mentor to handle on a part-time basis efficintly. Given that only 1,549 employees are mentorship eligible, every mentor would have to take on about 47 students. Two logical options could be as follows:
 1. Turn the mentorship program into a class style program. This would entail the mentors soley giving classes to a group of students rather than mentor them closely. New employees would be able to begin work while mentors provided insight on th ejob, skills and company culture. 
